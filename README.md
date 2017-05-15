@@ -1,5 +1,5 @@
 # Rar-File-Missing
-This CLI program is designed to hide files in Rars. Hidden files from be removed, but it won't appear in winrar and they won't be descompressed. You can reveal the files later with this program.
+This CLI program is designed to hide files in Rars. Hidden files aren't removed, but they won't appear in winrar and won't be descompressed. You can reveal these files later with the program.
 
 I developed this program in 2013, and his code quality is pretty bad (long functions, spanish names...). At least there are a lot of comments (in spanish), and the most important... It works!.
 
